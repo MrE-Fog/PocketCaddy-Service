@@ -28,7 +28,7 @@
     "@loopback/testlab": "^0.3.2",
     "eslint": "^3.17.1",
     "eslint-config-loopback": "^8.0.0",
-    "mocha": "^5.0.4",
+    "mocha": "^10.2.0",
     "nsp": "^2.1.0"
   },
   "repository": {
